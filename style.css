@@ -17,6 +17,7 @@ footer {
 a.nav-link {
   transition: all 0.3s;
   padding: 8px 0;
+  margin-left: 0rem;
   transition: all;
   transition-duration: 300ms;
   border-bottom: 1px solid rgba(0, 0, 0, 0);}
@@ -42,3 +43,5 @@ behavior: smooth; }}
   transition: all 0.3s;}
 #TxtProfil:hover {
   transform: scale(1.1);}
+
+
