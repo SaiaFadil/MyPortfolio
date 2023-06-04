@@ -1,0 +1,136 @@
+html{
+  padding: 0;
+  margin: 0;
+  scroll-padding: smooth;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+
+* {
+  margin: 0;
+  margin-left: 0;
+  margin-right: 0;
+  
+}
+/* p#EfectText{
+  justify-content: center;
+}
+#EfectText{
+  font-size: 25px;
+  overflow: hidden;
+  position: absolute;
+  color: black;
+  
+}
+#EfectText::after{
+  content: "PROGAMERS";
+  display: inline-block;
+  animation: animation 8.5s steps(9) infinite;
+  width: 0ch;
+  color: rgb(0, 19, 227);
+}
+#EfectText::before{
+  display: inline-block;
+  content: "";
+  width: 2px;
+  height: 100%;
+  position: relative;
+  right: 0;
+  animation: blinking .5s linear alternate infinite;
+  
+}
+@keyframes animation {
+  25%{
+    content: "PROGAMERS";
+    width: 10ch;
+
+  }
+  40%{
+    width: 0ch;
+
+  }
+  85%{
+content: "PROGRAMMER";
+width: 11ch;
+  }
+  90%{
+width: 0ch;
+  }
+}
+@keyframes blinking {
+  100%{
+    opacity: 0;
+  }
+} */
+#Belajar {
+  background-color: #e2edff;
+}
+
+#sosmed {
+  background-color: #e2edff;
+  margin: 0;
+}
+
+footer {
+  padding-bottom: 1rem;
+  margin: 0;
+}
+.btn {
+  transition: all 0.3s;
+}
+
+.btn:hover {
+  transform: scale(1.2);
+}
+
+a.nav-link {
+  transition: all 0.3s;
+  padding: 8px 0;
+  transition: all;
+  transition-duration: 300ms;
+  border-bottom: 1px solid rgba(0, 0, 0, 0);
+}
+
+a.nav-link:hover {  
+  transform: scale(1.1);
+  border-bottom: 0.5px solid black;
+}
+
+#Profilsy {
+  transition: all 0.3s;
+}
+
+#Profilsy:hover {
+  transform: scale(1.1);
+}
+
+#textP {
+  transition: all 0.3s;
+}
+
+#textP:hover {
+  transform: scale(1.1);
+}
+#Kartu {
+  transition: all 0.3s;
+ 
+
+}
+
+#Kartu:hover {
+  transform: scale(1.05);
+  #Pelajari{
+    transition: all 2.3s;
+behavior: smooth;
+  }
+}
+#TxtProfil {
+  transition: all 0.3s;
+}
+
+#TxtProfil:hover {
+  transform: scale(1.1);
+}
